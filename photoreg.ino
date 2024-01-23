@@ -1,5 +1,5 @@
 #include <Servo.h>
-#include <DHT.H>
+#include <DHT.H> //library for humidity and tempereature sensor
 #define DHTTYPE 
 int tempin;
 //initialise variables
