@@ -1,4 +1,5 @@
 #include <Servo.h>
+//initialise variables
 int servoPin = 9;
 Servo myServo;
 int lightPin = A0;
