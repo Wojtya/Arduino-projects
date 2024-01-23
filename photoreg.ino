@@ -1,4 +1,7 @@
 #include <Servo.h>
+#include <DHT.H>
+#define DHTTYPE 
+int tempin;
 //initialise variables
 int servoPin = 9;
 Servo myServo;
