@@ -1,4 +1,4 @@
-# Arduino-projects
+# Arduino-projects.
 First Simple project
 
 Project Title: Photo Regulator
